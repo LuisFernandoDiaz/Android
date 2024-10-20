@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CibertecGram" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#D55151</item>
+        <item name="colorPrimaryDark">#E10808</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+    </style>
+
+    <style name="Theme.CibertecGram" parent="Base.Theme.CibertecGram" />
+
+
+
+    <style name="RaisedButtonDark" parent="Theme.AppCompat.Light">
+
+        <item  name="android:backgroundTint"   >#FF3D00</item>
+        <item  name="android:foregroundTint"   >#FFC107</item>
+        <item  name="android:textColor"   >@android:color/white     </item>
+
+    </style>
+
+    <style  name="EditTextWhite" parent="TextAppearance.AppCompat"   >
+        <item  name="android:textColorHint"  >@color/editTextColorWhite</item>
+        <item  name="android:textColor"  >@color/editTextColorWhite</item>
+        <item  name="hintTextColor"  >@color/editTextColorWhite</item>
+        <item  name="boxStrokeColor"  >@color/editTextColorWhite</item>
+        <item  name="android:textSize" >@dimen/login_edittext_size</item>
+    </style>
+
+<style  name="EditTextBlack" parent="TextAppearance.AppCompat"   >
+        <item  name="android:textColorHint"  >@color/editTextColorBlack</item>
+        <item  name="android:textColor"  >@color/editTextColorBlack</item>
+        <item  name="hintTextColor"  >@color/editTextColorBlack</item>
+        <item  name="boxStrokeColor"  >@color/editTextColorBlack</item>
+        <item  name="android:textSize" >@dimen/login_edittext_size</item>
+    </style>
+
+
+
+
+
+</resources>

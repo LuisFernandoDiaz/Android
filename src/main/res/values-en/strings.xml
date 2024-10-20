@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_username">Username</string>
+
+
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes una cuenta?</string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createAccount">Únete</string>
+    <string name="hint_name">Nombre</string>
+    <string name="text_button_create_account">Únete</string>
+    <string name="toolbar_title_create_account">Create Account</string>
+    <string name="username_card">Uriel Hernandez</string>
+    <string name="hint_passwordfirstword_card">Hace</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="username_card1">Exquisita pizza cuatro quesos</string>
+    <string name="tiempo_card">" 11 p. m. ⋅ Abre a las 12 p. m. del sáb\n"</string>
+    <string name="travel">Aplicacion de Envio</string>
+
+
+</resources>

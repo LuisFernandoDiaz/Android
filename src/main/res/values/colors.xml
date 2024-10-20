@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="marron">#372C2C</color>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FD480F</color>
+    <color name="colorAccent">#FFD400</color>
+    <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorBlack">#000000</color>
+    <color name="backgroundText_Card">#53292929</color>
+    <color name="backgroundText_Griss">#8A8A8A</color>
+
+</resources>
